@@ -1,23 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-     <loc>https://sxnxhxrxkx.github.io/</loc>
-     <lastmod>2019-05-26</lastmod>
+     <loc>/</loc>
+     <lastmod>2019-06-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://sxnxhxrxkx.github.io/UWSC/</loc>
-     <lastmod>2019-05-26</lastmod>
+     <loc>/VR-CAR/</loc>
+     <lastmod>2019-06-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://sxnxhxrxkx.github.io/git/</loc>
-     <lastmod>2019-05-26</lastmod>
+     <loc>/wiki/UWSC/</loc>
+     <lastmod>2019-06-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://sxnxhxrxkx.github.io/mkdocs/</loc>
-     <lastmod>2019-05-26</lastmod>
+     <loc>/wiki/git/</loc>
+     <lastmod>2019-06-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>/wiki/</loc>
+     <lastmod>2019-06-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>/wiki/mecab-python/</loc>
+     <lastmod>2019-06-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>/wiki/mkdocs/</loc>
+     <lastmod>2019-06-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>/wiki/raspberrypi/</loc>
+     <lastmod>2019-06-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>/wiki/sqlite/</loc>
+     <lastmod>2019-06-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
